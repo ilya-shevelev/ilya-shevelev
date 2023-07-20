@@ -6,6 +6,7 @@
     <p align="left">
         <a href="mailto:ilasevelev10776@gmail.com" target="blank"><img align="center" src="./email.png" alt="email" height="40" width="40" /></a>
         <a href="https://t.me/ilya_shevelev21" target="blank"><img align="center" src="./telegram.svg" alt="telegram" height="30" width="30" /></a>
+        <a href="https://vk.com/webion" target="blank"><img align="center" src="./vk.svg" alt="vk" height="30" width="30" /></a>
         <a href="https://wa.link/5obrl2" target="blank"><img align="center" src="./whatsapp.svg" alt="whatsapp" height="30" width="30" /><a>
         <a href="https://facebook.com/shevelev.ilya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
         <a href="https://instagram.com/ilya_shevelev21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
