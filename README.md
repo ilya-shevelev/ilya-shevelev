@@ -13,7 +13,7 @@
 
 I design and build **scalable, fault-tolerant distributed systems** from functional requirements analysis to infrastructure deployment. My work focuses on high-load backend services, resource scheduling, and data pipeline orchestration across globally distributed infrastructure.
 
-Core areas of expertise: **distributed scheduling**, **stream processing**, **backup orchestration**, **cloud infrastructure (IaaS)**, and **service reliability at scale**.
+Core areas of expertise: **distributed scheduling**, **stream processing**, **cloud native**, and **service reliability at scale**.
 
 ---
 
