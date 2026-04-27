@@ -28,6 +28,7 @@ Core areas of expertise: **distributed scheduling**, **stream processing**, **cl
 **Databases & Storage**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
@@ -87,11 +88,11 @@ SOLID | DRY | KISS | Table-Driven Testing
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilya-shevelev&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilya-shevelev&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilya-shevelev&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ilya-shevelev&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
